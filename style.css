@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #0b8a00 , #ffffff, #d10000;
+    background: linear-gradient (to rigth, #0b8a00 33.3%, #ffffff 33.3%, #d10000 33.3%);
     padding: 40px 20px;
     text-align: center;
     animation: slideDown 1s ease-out;
