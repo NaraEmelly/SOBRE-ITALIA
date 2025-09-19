@@ -14,8 +14,7 @@ body {
 }
 
 header {
-    background-color: #e0e0e0;
-    background-image: hrf = "https://cdn.dooca.store/1078/products/360-f-62186477-tpcckoq5yu3atlumqxx086mloajwnhs6.jpg?v=1709997680&webp=0";
+    background-color: #0b8a00 , #ffffff, #d10000;
     padding: 40px 20px;
     text-align: center;
     animation: slideDown 1s ease-out;
